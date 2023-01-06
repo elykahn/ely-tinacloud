@@ -14,9 +14,9 @@ blocks:
         type: link
         icon: false
         link: /posts
-      - label: Read Blog
-        type: link
-        icon: false
+      - label: Blog
+        type: button
+        icon: true
         link: /posts
     image:
       src: /uploads/unsplash-75EFpyXu3Wg.jpg
@@ -51,6 +51,7 @@ blocks:
     color: tint
     _template: features
 ---
+
 
 
 
