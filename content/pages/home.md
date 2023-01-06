@@ -11,8 +11,8 @@ blocks:
       .tina/schema.ts.
     actions:
       - label: Get Started
-        type: button
-        icon: true
+        type: link
+        icon: false
         link: /posts
       - label: Read Blog
         type: link
@@ -51,5 +51,6 @@ blocks:
     color: tint
     _template: features
 ---
+
 
 
