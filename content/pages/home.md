@@ -1,6 +1,25 @@
 ---
 title: 'ely.io: tina'
 blocks:
+  - items:
+      - icon:
+          name: BiPodcast
+          color: white
+          style: float
+        title: Here's Another Feature
+        text: >-
+          This is where you might talk about the feature, if this wasn't just
+          filler text.
+      - icon:
+          name: ''
+          color: ''
+          style: float
+        title: Here's Another Feature
+        text: >-
+          This is where you might talk about the feature, if this wasn't just
+          filler text.
+    color: primary
+    _template: features
   - tagline: ely.io
     headline: starting right up
     text: >
@@ -30,6 +49,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
