@@ -6,10 +6,11 @@ blocks:
           name: BiPodcast
           color: white
           style: float
-        title: Here's Another Feature
+        title: Podcasts
         text: >-
-          This is where you might talk about the feature, if this wasn't just
-          filler text.
+          Occasionally some clever employment of established technology to
+          create fundamental changes in a field. The ability to freely broadcast
+          and for public consumption of audio episodic pieces they choose.
       - icon:
           name: ''
           color: ''
@@ -49,6 +50,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
